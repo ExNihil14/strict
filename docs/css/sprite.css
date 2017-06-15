@@ -1,0 +1,138 @@
+.sprite {
+    background-image: url('../img/spritesheet.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow {
+    width: 20px;
+    height: 12px;
+    background-position: -5px -5px;
+    bottom: 90px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+}
+
+.sprite-facebook {
+    width: 9px;
+    height: 15px;
+    background-position: -35px -5px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-google {
+    width: 14px;
+    height: 15px;
+    background-position: -54px -5px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-horn-icon {
+    width: 45px;
+    height: 39px;
+    background-position: -78px -5px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-icon-wrapper-bgr {
+    width: 100px;
+    height: 100px;
+    background-position: -5px -54px;
+}
+
+.sprite-link-icon {
+    width: 14px;
+    height: 14px;
+    background-position: -133px -5px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-linkedin {
+    width: 14px;
+    height: 13px;
+    background-position: -5px -29px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-mobile-icon {
+    width: 33px;
+    height: 53px;
+    background-position: -115px -54px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-paper-airplane-icon {
+    width: 43px;
+    height: 44px;
+    background-position: -158px -5px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-shape {
+    width: 34px;
+    height: 37px;
+    background-position: -158px -59px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sprite-twitter {
+    width: 14px;
+    height: 12px;
+    background-position: -158px -106px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.sprite-zoom-icon {
+    width: 15px;
+    height: 15px;
+    background-position: -182px -106px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
