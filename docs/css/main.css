@@ -245,9 +245,10 @@ end header-top-section
 /* 
 begin banner-section
 */
-.banner-section {
-  background-size: initial;
+.banner-section {  
   background: url('../img/banner-bgr.png') no-repeat;
+  background-size: initial;
+  background-position: center;
   height: 800px;
   padding-top: 14%;
   text-align: center;
@@ -319,6 +320,7 @@ begin info-section
 .info-section {
   background-color: #f6f9f9;
   padding-top: 5%;
+  padding-bottom: 8.5%;
   text-align: center;
 }
 
@@ -331,7 +333,6 @@ begin info-section
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.5;
-  margin-bottom: 11%;
 }
 /* 
 end info-section 
@@ -342,6 +343,7 @@ begin feature-section
 */
 .feature-section {
   padding-top: 5%;
+  padding-bottom: 5.5%;
   text-align: center;
 }
 
@@ -358,8 +360,7 @@ begin feature-section
 }
 
 .feature-section__item {
-  width: 30%;  
-  margin-bottom: 7%;
+  width: 30%;
 }
 
 .feature-section__item h3 {
@@ -393,6 +394,7 @@ begin feature-section
 .portfolio-section {
   background-color: #f6f9f9;
   padding-top: 5%;
+  padding-bottom: 6.5%;
   text-align: center;
 }
 
@@ -508,10 +510,6 @@ begin feature-section
   position: relative;
   width: 31%;  
 }
-
-.portfolio-section__items {
-  margin-bottom: 8.5%;
-}
 /* 
 end feature-section 
 */
@@ -523,6 +521,7 @@ begin feature-section
   background: url('../img/form-bgr-36.png') no-repeat;
   background-size: cover;
   padding-top: 5%;
+  padding-bottom: 6.5%;
   position: relative;
   text-align: center;
 }
@@ -611,10 +610,6 @@ begin feature-section
 .form-section__button {
   font-size: 1.125rem;
   padding: 15px 50px;
-}
-
-.form__field--bottom {
-  margin-bottom: 20%;
 }
 /* 
 end feature-section 
